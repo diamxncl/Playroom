@@ -1,7 +1,8 @@
 # Álvaro´s Playroom - Linux terminal edition
 
-Todo en uno: Hundir la flota + 4 En raya + Wordle 
+Todo en uno: Hundir la flota + 4 En raya + Wordle + Dodge
 
+Novedad: Se ha implementado un sistema de identifiación de usuarios.
 
 # Instrucciones
 Deberá tener instalado `figlet` en su equipo:
